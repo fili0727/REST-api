@@ -1,0 +1,16 @@
+{
+  "posts": {
+    "00": {
+      "title": "I simply love loops.js 💫",
+      "image": "https://images.unsplash.com/photo-1465779171454-aa85ccf23be6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bG9vcHN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    "01": {
+      "title": "Slow Mornings in Bed ☕️",
+      "image": "https://images.unsplash.com/photo-1642013126529-f674c5b87dbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyOTA4MTB8MHwxfGFsbHwxNXx8fHx8fDJ8fDE2NDIwNzUwMzQ&ixlib=rb-1.2.1&q=60&w=600"
+    },
+    "02": {
+      "title": "Every Day is Flower Day 🌷",
+      "image": "https://images.unsplash.com/photo-1642044658495-ef626a9cb2c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyOTA4MTB8MHwxfGFsbHwyOHx8fHx8fDJ8fDE2NDIwNzUwNzQ&ixlib=rb-1.2.1&q=60&w=600"
+    }
+  }
+}
