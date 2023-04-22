@@ -31,14 +31,14 @@ async function getPosts() {
   const response = await fetch(`${endpoint}/posts.json`); //posts.json is the data ressource
   const data = await response.json();
   const posts = preparePostData(data);
-  return data;
+  return posts;
 }
 
 async function getUsers() {
   const response = await fetch(`${endpoint}/users.json`);
   const data = await response.json();
   const users = preparePostData(data);
-  return data;
+  return users;
 }
 
 function preparePostData(dataObject) {
